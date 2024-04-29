@@ -3,7 +3,20 @@ const cashGiven = document.querySelector("#cash-given");
 const checkButton = document.querySelector("#check-button");
 const out_message = document.querySelector("#message");
 const availableNotes = [2000, 500, 100, 20, 10, 5, 1];
-const noOfNotes = document.querySelectorAll(".no-of-notes")
+
+
+
+const noOfN̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥otes = document.querySelectorAll(".no-of-notes")
+
+
+
+
+
+
+
+
+
+
 
 // const tableElements = document.querySelectorAll('.table-element')
 checkButton.addEventListener("click", function validateBillAndCashAmount() {
