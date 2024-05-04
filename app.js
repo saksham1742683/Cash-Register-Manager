@@ -1,4 +1,5 @@
 const billAmount = document.querySelector("#bill-amount");
+console.log("🚀 ~ billAmount:", billAmount)
 const cashGiven = document.querySelector("#cash-given");
 const checkButton = document.querySelector("#check-button");
 const out_message = document.querySelector("#message");
@@ -42,3 +43,4 @@ function showMessage(message) {
   out_message.style.display = "block";
   out_message.innerText = message;
 }
+
